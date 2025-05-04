@@ -1,0 +1,7 @@
+langchain
+transformers
+diffusers
+torch
+gradio
+huggingface_hub
+pillow
